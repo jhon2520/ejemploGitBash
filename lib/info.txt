@@ -9,8 +9,23 @@ Esta modificación la estoy haciendo desde github para probar el Pull
 
 
 Aquí haciendo una modificación desde git hub
+
+
+///////////////
+
+Estas modificaciones las estoy haciendo usando un fork desde mi segundo perfil de git hub para luego hacer un push y posteriomente un push request
+a mi git hub principal. así aprendo como se hace esta mondá.
+
+
+//
+//
+
+//
+Nuevos cambios
+//
+//
+//
+=======
 blablabla 
 
 
-
-Cambios para eliminar lo hecho por el segundo usuario
